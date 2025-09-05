@@ -2,6 +2,10 @@
 
 Welcome to **Mindful_AI**! This project is dedicated to exploring the intersection of artificial intelligence and mindfulness, aiming to create tools, models, or applications that foster well-being, self-awareness, and mental wellness using modern AI techniques.
 
+# Welcome to my Project
+
+https://ai-powered-mental-we-nsp5.bolt.host
+
 ## Overview
 
 Mindful_AI is a repository for experiments and projects focused on leveraging AI for mindfulness and mental health. Whether it's guided meditations, sentiment analysis, mental wellness tracking, or stress-reduction tools, this repo is the home for building and sharing innovations that help people lead more mindful lives.
@@ -51,17 +55,4 @@ python main.py
 - Artificial Intelligence / Machine Learning frameworks (e.g.,TensorFlow, scikit-learn)
 - Natural Language Processing (NLP)
 - Data visualization libraries
-- Web or mobile frameworks (if applicable)
 
-
-## Contributing
-
-Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, please fork the repository and submit a pull request.
-
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-*Mindful_AI – Bringing awareness and well-being to technology.*
